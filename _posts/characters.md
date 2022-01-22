@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Characters"
+categories: loremipsum
+---
+
 # Characters
 
 This page outlines the existing articles of characters in the wiki. This page includes adventuring parties, with playable characters in each respective party, non playable characters that are interacted with in the adventures, and then historical characters.
